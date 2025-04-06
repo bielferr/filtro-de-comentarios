@@ -25,6 +25,7 @@ Este projeto é um sistema simples de **filtro de palavras ofensivas** desenvolv
 ## 📁 Estrutura
 
 gerenciamento-filtro-comentarios/
+
 ├── index.html              # Estrutura da interface do usuário
 ├── style.css               # Estilização da interface
 ├── script.js               # Lógica do filtro de comentários
